@@ -1,1 +1,9 @@
-save time and know we want the computer do what it can do without human being.
+//save time and know we want the computer do what it can do without human being.//
+//test on the Mac os terminal with belowed command Test everything  ssh -T git@github.com//
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:fuxi2003/venus.wondertech.com.cn-speech-recognition
+git push -u origin master
+
